@@ -2,7 +2,7 @@
 
 ## **Getting Started**
 
-### **Prerequisites**
+### **Требования**
 - Node.js (v16 или выше)
 - PostgreSQL
 
