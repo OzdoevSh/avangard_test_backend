@@ -1,0 +1,10 @@
+{
+  "type": "postgres",
+  "url": "postgres://user:password@localhost:5432/taskmanager",
+  "entities": ["src/entities/**/*.ts"],
+  "migrations": ["src/migrations/**/*.ts"],
+  "cli": {
+    "entitiesDir": "src/entities",
+    "migrationsDir": "src/migrations"
+  }
+}
