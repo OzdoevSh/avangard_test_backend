@@ -1,4 +1,4 @@
-# Flexim Test Task Backend
+# Avangard Test Task Backend
 
 ## **Getting Started**
 
