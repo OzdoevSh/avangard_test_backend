@@ -23,7 +23,7 @@
   ```
 2. Запуск миграций:
   ```
-  npm run migration
+  npm run migrate
   ```
 
 ### **Другие скрипты**
